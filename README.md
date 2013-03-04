@@ -19,3 +19,12 @@ f 	Prints the entire contents of the stack without altering anything.
 * 	Pops two values, multiplies them, and pushes the result.
 / 	Pops two values, divides the second one popped from the first one popped, and pushes the result.
 ```
+## Usage
+```
+$ g++ minidc.cpp -bin
+$ ./bin
+```
+## Related Project
+minidc in node.js  https://github.com/adrianlee/minidc
+
+minidc in python  https://github.com/cadesalaberry/minidc
